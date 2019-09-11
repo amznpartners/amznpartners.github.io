@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Tittle Articles
+title: Posts
 ---
 
 <div id="articles">
-  <h1>Artigos</h1>
+  <h1>Posts</h1>
   <ul class="posts noList">
     {% for post in site.posts %}
       <li>
