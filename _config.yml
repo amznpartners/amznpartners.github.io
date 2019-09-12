@@ -12,12 +12,6 @@ plugins: [jekyll-paginate]
 paginate: 5
 
 navigation:
-  - title: Home
-    url: /index.html
-  - title: Sobre
-    url: /about
-  - title: Contato
-    url: /contact
 
 social:
   github: amznpartners
